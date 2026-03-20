@@ -1,4 +1,4 @@
-# Bartolobakehouse
+# Apptastic
 
 ## Overview
 
@@ -21,5 +21,5 @@ This website was built for a marketing agency.
 <!--
 ## Live Preview
 
-[View the website](https://kristinaborivskadev-cloud.github.io/restaurant-events-website/)
+[View the website](https://kristinaborivskadev-cloud.github.io/marketing-agency-website/)
 -->

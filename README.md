@@ -18,8 +18,7 @@ This website was built for a marketing agency.
 * CSS3 / SCSS
 * JavaScript 
 * WordPress
-<!--
+
 ## Live Preview
 
 [View the website](https://kristinaborivskadev-cloud.github.io/marketing-agency-website/)
--->
